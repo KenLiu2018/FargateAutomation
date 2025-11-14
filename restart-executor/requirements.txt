@@ -1,0 +1,7 @@
+# 无外部依赖
+# 本Lambda函数完全使用AWS Lambda内置库
+# - boto3: AWS SDK
+# - urllib3: HTTP请求库
+# - json: JSON处理
+# - datetime: 时间处理
+# - os: 环境变量访问

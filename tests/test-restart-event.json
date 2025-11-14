@@ -1,0 +1,9 @@
+{
+  "resource_id": "GenBiMainStackecsStackED26CAF7-GenBiClusterBCB0E94F-nmhM6gMvlXwi/GenBiMainStackecsStackED26CAF7-GenBiFargateServiceFrontendServiceAA9E14C4-kyzmgM7mU0m1",
+  "cluster_name": "GenBiMainStackecsStackED26CAF7-GenBiClusterBCB0E94F-nmhM6gMvlXwi",
+  "service_name": "GenBiMainStackecsStackED26CAF7-GenBiFargateServiceFrontendServiceAA9E14C4-kyzmgM7mU0m1",
+  "resource_arn": "GenBiMainStackecsStackED26CAF7-GenBiClusterBCB0E94F-nmhM6gMvlXwi|GenBiMainStackecsStackED26CAF7-GenBiFargateServiceFrontendServiceAA9E14C4-kyzmgM7mU0m1",
+  "rule_name": "ecs-restart-test-123456789",
+  "restart_reason": "holiday_conflict_early_restart",
+  "test_mode": true
+}
